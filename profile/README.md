@@ -27,6 +27,11 @@ At this base repository, it serves as a home for both beginners and seasoned Lan
 4. **Merge Pull Request**: Once the Pull Request has been approved by more than two reviewers, the original author can merge the PR into the 'main' branch.
 5. **Proofreading**: During the following week, the proofreading team will review the submitted content for typos, template compliance, and proper citations. If the proofreading team requests any modifications, the original author must make the necessary corrections and resubmit the PR.
 
+🔑 Main Repositories
+[LangChain-OpenTutorial](https://github.com/LangChain-OpenTutorial/LangChain-OpenTutorial): The main repository for the LangChain Open Tutorial project. It includes all the tutorial content and resources.
+[langchain-opentutorial-pypi](https://github.com/LangChain-OpenTutorial/langchain-opentutorial-pypi): The Python package repository for LangChain OpenTutorial utilities and libraries, available on PyPI for easy integration.
+[Markdown-Generator](https://github.com/LangChain-OpenTutorial/Markdown-Generator): A utility tool for generating markdown for GitBook.
+
 ## 📚 References
 - [langchain-ai](https://github.com/langchain-ai/langchain) 📖
 - [LangGraph GitHub](https://github.com/langchain-ai/langgraph)
